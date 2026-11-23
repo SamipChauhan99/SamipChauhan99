@@ -43,9 +43,3 @@
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamipChauhan99&show_icons=true&hide_border=true&bg_color=101715&title_color=c6f36b&icon_color=c6f36b&text_color=e8eee4" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamipChauhan99&layout=compact&hide_border=true&bg_color=101715&title_color=c6f36b&text_color=e8eee4" alt="Top languages" />
-</p>
